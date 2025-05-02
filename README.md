@@ -35,7 +35,7 @@ cd WPS-Batch-PDF-Converter
 ```
 
 ### Set your target folder  
-Open `convert.py` and update the `root_folder` variable:  
+Open `batchwps2pdf.py` and update the `root_folder` variable:  
 ```
 root_folder = "D:\Recipes"
 ```
